@@ -45,6 +45,4 @@ Yogesh Sehgal
 
 #### Rails App URL
 
-Once you've deployed your Rails app, put the link here: `<app>.fly.dev`
-
-Sorry coudn't deploy it as I don't own an International Credit Card
+Once you've deployed your Rails app, put the link here: `https://support-engineer-test-yogesh.fly.dev/`
